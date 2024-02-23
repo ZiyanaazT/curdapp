@@ -1,2 +1,2 @@
 # curdapp
-i develop this web site by Reactjs
+i have joinded this repo
